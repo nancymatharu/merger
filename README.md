@@ -17,5 +17,5 @@
   ```
    * command will open a remote instance of notebook in the browser
    * you can see your repo folder in the notebook
-   *open the folder, click on **_.ipynb_** file and run **_all_** the blocks.
-   *check your **_ouput.csv_** file in output folder.
+   * open the folder, click on **_.ipynb_** file and run **_all_** the blocks.
+   * check your **_ouput.csv_** file in output folder.
